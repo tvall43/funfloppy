@@ -8,4 +8,4 @@ display_text = 9
 	int 21h
 	int 20h
 
-hello db 'helloworld!',24h
+hello db 'helloworld',24h
